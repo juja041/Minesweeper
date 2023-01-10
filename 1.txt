@@ -1,0 +1,10 @@
+1)	Startovní menu, mřížka s políčky, políčka s čísli a políčka s minami
+2)	Bude to čtvercová mřížka, která bude mít v sobě určitý počet min a zbylá bezpečná políčka s čísly. Hráč neví, kde na hrací ploše jsou umístěny miny, pokud na nějakou minu naklikne tak prohrává 
+3)	Dvě akce, označení miny a odhalení pole, plus výběr obtížnosti v menu
+4)	Vygeneruje se čtvercová mřížka s políčky, kde budou náhodně rozmístěny určitý počet min, podle obtížnosti
+5)	Jestli překoná nějakou úroveň může začít novou a změnit si třeba obtížnost
+6)	Hráč odkrývá políčka nebo teda označuje minu a když odkryje pole, tak se mu ukáže, kolik min je vedle tohoto pole, pokud odkryje pole, vedle kterého není mina tak se odhalí celé okolí tohoto pole
+7)	Není možnost, jak vyjet z této hry a objekty se nikdy mimo hru nedostanou 
+8)	Hráč odkrývá pole a tím zjišťuje kolik min je vedle tohoto pole nebo si může jen označit pole, pod kterým si myslí že se skrývá mina 
+9)	Generace probíhá pouze při spuštění hry, ale také když hráč naklikne políčko a odkryje se mu  
+10)	Skóre není buď si vyhrál nebo si prohrál 
